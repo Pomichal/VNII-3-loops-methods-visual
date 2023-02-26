@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Exercise6
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-509.0,"y":-63.0},"guid":"314ab030-ba71-4b56-b573-7dd564ee471d","$version":"A","$type":"Unity.VisualScripting.Start"},{"position":{"xMin":-501.0,"yMin":-247.0,"xMax":-22.0,"yMax":-95.0},"title":"Exercise
+      6","body":"1. Counting elements: Create a List of integers (as an object variable)
+      and print the number of elements in the List to the console.\n2. Adding and
+      removing elements: Create a List of strings (as an object variable) and use
+      the Add and Remove methods to add and remove elements from the List. Check
+      out the resulting list in the Inspector.\n3. Accessing elements: Create a List
+      of floats and print the third element of the List to the console.","colorTheme":"Classic","guid":"33de3187-f683-4fd0-b9fb-64f66aadea20","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []

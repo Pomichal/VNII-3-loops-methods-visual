@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Exercise7
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"6fde4491-d8e7-4aea-be50-d28fbea7bd87","$version":"A","$type":"Unity.VisualScripting.Start"},{"position":{"xMin":-219.0,"yMin":-290.0,"xMax":282.0,"yMax":-190.0},"title":"Exercise
+      7","body":"Summing elements: Create a List of integers (as an object variable)
+      and use a foreach loop to calculate the sum of all the odd elements in the
+      List. Print the result to the console. Experiment with different values in
+      the List","colorTheme":"Classic","guid":"b8efe902-16b2-4f2d-8178-76d4baa1c56f","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Exercise3
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-369.0,"y":-40.0},"guid":"f8601ed9-87bd-48ac-ab6b-490b3540f632","$version":"A","$type":"Unity.VisualScripting.Start"},{"position":{"xMin":-375.0,"yMin":-207.0,"xMax":31.0,"yMax":-107.0},"title":"Exercise
+      3","body":"Find the sum of a sequence of numbers: Create a graph that uses
+      a for loop to calculate the sum of the numbers from A to B. A and B should
+      be Object variables of type int. The program should print the sum to the console.
+      You can use a graph variable to track the sum.","colorTheme":"Classic","guid":"84763de4-2ece-44d5-8ae9-cf1a64003e3f","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []

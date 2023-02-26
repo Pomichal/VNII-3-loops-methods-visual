@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Exercise5
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-529.0,"y":-12.0},"guid":"0ed8d4ec-3e07-4a66-80f0-188935be6854","$version":"A","$type":"Unity.VisualScripting.Start"},{"position":{"xMin":-537.0,"yMin":-232.0,"xMax":-154.0,"yMax":-54.0},"title":"Exercise
+      5","body":"Create a graph that uses a for loop to print the following pattern
+      to the console:\n*\n**\n***\n****\n*****\nYou may need to use nested for loops
+      (for loop inside of a for loop)","colorTheme":"Classic","guid":"f63e105d-4cac-410d-94bf-1380b3dbfcdf","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
+    _objectReferences: []
